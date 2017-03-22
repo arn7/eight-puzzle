@@ -1,4 +1,4 @@
-# Ashley Naratadam
+
 from EightPuzzle.Node import Node
 from EightPuzzle.PriorityQueue import PQ
 
